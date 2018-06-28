@@ -1,3 +1,5 @@
+#Autores: Gisela Miranda Difini e Tiago Costa
+
 import random
     
 def NUMBER_OF_TRIES():
